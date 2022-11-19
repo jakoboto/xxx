@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\VisualStudioProjects\TestFile\TestFile\bin\Debug\TestFile.exe.config
+C:\Users\user\source\repos\VisualStudioProjects\TestFile\TestFile\bin\Debug\TestFile.exe
+C:\Users\user\source\repos\VisualStudioProjects\TestFile\TestFile\bin\Debug\TestFile.pdb
+C:\Users\user\source\repos\VisualStudioProjects\TestFile\TestFile\bin\Debug\TestFile.xml
+C:\Users\user\source\repos\VisualStudioProjects\TestFile\TestFile\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\user\source\repos\VisualStudioProjects\TestFile\TestFile\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\user\source\repos\VisualStudioProjects\TestFile\TestFile\obj\Debug\TestFile.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\VisualStudioProjects\TestFile\TestFile\obj\Debug\TestFile.vbproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\VisualStudioProjects\TestFile\TestFile\obj\Debug\TestFile.Resources.resources
+C:\Users\user\source\repos\VisualStudioProjects\TestFile\TestFile\obj\Debug\TestFile.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\VisualStudioProjects\TestFile\TestFile\obj\Debug\TestFile.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\VisualStudioProjects\TestFile\TestFile\obj\Debug\TestFile.vbproj.CopyComplete
+C:\Users\user\source\repos\VisualStudioProjects\TestFile\TestFile\obj\Debug\TestFile.exe
+C:\Users\user\source\repos\VisualStudioProjects\TestFile\TestFile\obj\Debug\TestFile.xml
+C:\Users\user\source\repos\VisualStudioProjects\TestFile\TestFile\obj\Debug\TestFile.pdb
+C:\Users\user\source\repos\VisualStudioProjects\TestFile\TestFile\obj\Debug\TestFile.MainFrame.resources
